@@ -17,6 +17,10 @@ To use this repository you should confugure it inside your yaml-configuration:
 ```yaml
 external_components:
   - source: github://atshome/esphome-components
+
+esp_now_connect:
+  id: espnow
+  commands:
 ```
 
 
