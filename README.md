@@ -14,11 +14,13 @@ A collection of my ESPHome components.
 
 To use this repository you should confugure it inside your yaml-configuration:
 
-yaml
+```yaml
 external_components:
   - source: github://atshome/esphome-components
+```
 
 
 ## Your thanks
 
 If this project was useful to you, you can star the project :)
+
