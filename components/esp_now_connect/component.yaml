@@ -1,0 +1,5 @@
+name: "ESPNow"
+files:
+  - esp_now_connect.h
+  - esp_now_connect.cpp
+  - __init__.py
